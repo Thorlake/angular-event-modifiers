@@ -1,2 +1,1 @@
-# angular-event-modifiers
- Event modifiers (Vue analogue)
+Update readme
